@@ -86,9 +86,9 @@ Tambahkan screenshot website kamu di sini
 
 Jika ingin berkolaborasi atau memiliki pertanyaan, silakan hubungi saya:
 
-* Email: [emailkamu@gmail.com](mailto:emailkamu@gmail.com)
-* LinkedIn: https://linkedin.com/in/username
-* GitHub: https://github.com/username
+* Email: [vinzeinan@gmail.com](mailto:vinzeinan@gmail.com)
+* LinkedIn: www.linkedin.com/in/zeinan-ramadan
+* GitHub: [https://github.com/Z9ra](https://github.com/Z9ra)
 
 ---
 

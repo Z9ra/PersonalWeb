@@ -1,105 +1,91 @@
-# PersonalWeb
+# 👋 Hi, I'm Zeinan Ramadan
 
-# 🌐 Personal Web Portfolio
-
-Selamat datang di repository personal website saya. Website ini dibuat sebagai media untuk menampilkan profil, skill, dan project yang telah saya kerjakan di bidang Web Development dan IT Support.
-
----
-
-## 👨‍💻 Tentang Saya
-
-Saya adalah seorang IT Support dan Web Developer yang memiliki minat kuat dalam pengembangan website modern dan teknologi berbasis AI. Saya memiliki pengalaman dalam troubleshooting, pengelolaan sistem, serta pengembangan aplikasi web yang responsif dan user-friendly.
+🎯 Junior Backend Developer | Aspiring Frontend Web Developer  
+💡 "Focused on system effectiveness and efficiency to solve real-world problems"
 
 ---
 
-## 🚀 Fitur Utama
+## 🚀 About Me
 
-- ✨ Tampilan modern dan responsif (mobile-friendly)
-- 👤 Halaman profil / about me
-- 💼 Portfolio project
-- 📄 Download CV
-- 📞 Kontak (email / sosial media)
-- ⚡ Performa cepat dan ringan
+I am a recent graduate with a strong interest in web development, especially in building efficient and practical systems to solve real-world problems.  
+I have experience developing simple web-based applications using PHP and MySQL, and I am continuously improving my skills in frontend development.
+
+Currently, I am focusing on becoming a **professional Frontend Web Developer**, while maintaining a solid understanding of backend development.
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## 🛠️ Skills & Tools
 
-- HTML5
-- CSS3 / Tailwind CSS
-- JavaScript (ES6+)
-- React.js _(jika pakai)_
+### 💻 Programming Languages
+
+- HTML
+- CSS
+- PHP
+- MySQL
+
+### ⚙️ Tools & Technologies
+
 - Git & GitHub
+- Visual Studio Code
+- Node.js (basic)
 
 ---
 
-## 📂 Struktur Folder
+## 📂 Projects
 
-```
-├── public/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── assets/
-│   └── styles/
-├── package.json
-└── README.md
-```
+### 🧺 Diamond Laundry
+
+A web-based application designed to simulate laundry price calculations quickly and efficiently.  
+This project helps users estimate laundry service costs automatically.
+
+- **Tech Stack:** HTML, CSS, PHP
+- **Repository:** https://github.com/Z9ra/Diamond-Laundry
 
 ---
 
-## ⚙️ Cara Menjalankan Project
+### 🌐 Personal Web
 
-1. Clone repository ini:
+A personal website that showcases my profile, skills, and projects as part of my personal branding.
 
-```
-git clone https://github.com/username/nama-repo.git
-```
-
-2. Masuk ke folder project:
-
-```
-cd nama-repo
-```
-
-3. Install dependencies:
-
-```
-npm install
-```
-
-4. Jalankan project:
-
-```
-npm run dev
-```
+- **Tech Stack:** Node.js, HTML, CSS
+- **Live Demo:** https://z9ra.github.io/PersonalWeb/
 
 ---
 
-## 📸 Preview
+## 💼 Experience
 
-Tambahkan screenshot website kamu di sini
+During my academic journey, I actively developed my web development skills by building practical projects.  
+I have experience in:
 
----
+- Developing web applications using PHP & MySQL
+- Designing simple and user-friendly interfaces
+- Managing projects using GitHub
+- Creating solutions based on real user needs
 
-## 📬 Kontak
-
-Jika ingin berkolaborasi atau memiliki pertanyaan, silakan hubungi saya:
-
-- Email: [vinzeinan@gmail.com](mailto:vinzeinan@gmail.com)
-- LinkedIn: www.linkedin.com/in/zeinan-ramadan
-- GitHub: [https://github.com/Z9ra](https://github.com/Z9ra)
+Projects like **Diamond Laundry** and **Personal Web** represent my ability to turn ideas into functional applications.
 
 ---
 
-## 📌 Catatan
+## 🎯 Career Goals
 
-Project ini akan terus dikembangkan seiring peningkatan skill dan pengalaman saya di bidang Web Development.
+I am currently open to opportunities as:
+
+- Frontend Web Developer (Junior)
+- Web Developer (Entry Level)
+
+I am eager to learn, grow, and contribute to building impactful digital products within a professional team.
 
 ---
 
-## ⭐ Support
+## 📫 Contact Me
 
-Jika kamu menyukai project ini, jangan lupa beri ⭐ pada repository ini.
+📧 Email: vinzeinan@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/zeinan-ramadan  
+💻 GitHub: https://github.com/Z9ra
 
 ---
+
+## ⭐ Let's Collaborate!
+
+I am open to collaboration, learning new things, and exploring opportunities in web development.  
+Feel free to reach out!
